@@ -1,0 +1,5 @@
+# Dependencies
+node_modules/
+
+# Build outputs are committed for GitHub Pages
+# dist/
